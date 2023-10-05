@@ -1,4 +1,6 @@
 # ML Self Study
+
+Notebooks here I've completed:
  
 **Neel Nanda's GPT-2 from scratch template notebook**
 
